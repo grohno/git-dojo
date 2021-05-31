@@ -6,12 +6,16 @@
 6 hoge
 7 hoge
 9 hoge
-8 hoge
+8 河合hogehoge
 10 hoge
 11 hoge
 12 hoge
 13 hoge
 14 hoge
 15 hoge
+<<<<<<< HEAD
 16 hirokore参上
 17 oka hoge oka hoge oka 
+=======
+16 kawakawakawakawakawakawa
+>>>>>>> kawa
